@@ -4,4 +4,4 @@ This repository contains my current resume.
 
 ## Files
 
-- `Resume.pdf` – Current resume
+- `Branson_Rose-Full_Stack_Developer.pdf` – Current resume
